@@ -1,0 +1,17 @@
+{
+  "name": "testing-pdf-extraction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Munene Ndereba",
+  "license": "ISC",
+  "dependencies": {
+    "pdf.js-extract": "^0.2.1",
+    "pdf2json": "^3.0.4"
+  }
+}
